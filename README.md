@@ -1,4 +1,4 @@
-MTCFSS MTCFSS
+MTCFSS Roadmap
 ===
 [![Stories in Workshops](https://badge.waffle.io/mtcfss/roadmap.svg?label=training-proposal&title=Workshops)](http://waffle.io/mtcfss/roadmap)
 [![Stories in Challenges](https://badge.waffle.io/mtcfss/roadmap.svg?label=challenges-proposal&title=Challenges)](http://waffle.io/mtcfss/roadmap)
