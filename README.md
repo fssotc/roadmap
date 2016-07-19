@@ -11,11 +11,12 @@ All issues are managed on [this waffle board](https://waffle.io/mtcfss/roadmap).
 ### Workflow:
 
 - There are 4 type of tasks: _`Workshop/Training`_, _`Events`_, _`Challenges`_, _`Others`_
-- Every task is done on 4 steps:
+- Every task (card) is done on 4 steps:
   - **Backlog:** Idea is still not approved
   - **Ready:** Idea approved and waiting for someone to do it
   - **In progress:** Task is being worked on by someone (development, testing, admin,...)
   - **Done:** Task completed and well tested.
+- Each Task has a _description_ and _comments_
 - Task can be assigned to one or more persons
 - Task can added to a GitHub _milestone_ to track progress and dependency
 - Task can have many _labels_ (tags)
