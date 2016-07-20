@@ -23,11 +23,11 @@ All issues are managed on [this waffle board](https://waffle.io/mtcfss/roadmap).
 
 ### Permissions:
 
-Only members of @mtcfss/roadmap have write permission to the tasks (issues, PRs):
+Only members of **@mtcfss/roadmap** team have write permission to the tasks (issues, PRs):
 - Open, close, assign any task
 - Change task labels, milestones
 - Update descriptions and comments of the tasks
 
 Non-members default permissions are read only others tasks and open new tasks.
 
-To gaint write permissions, send a request to @lejenome to join @mtcfss/roadmap.
+To gaint write permissions, create a [new request](https://github.com/mtcfss/roadmap/issues/new) to join **@mtcfss/roadmap**.
