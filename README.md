@@ -20,3 +20,14 @@ All issues are managed on [this waffle board](https://waffle.io/mtcfss/roadmap).
 - Task can be assigned to one or more persons
 - Task can added to a GitHub _milestone_ to track progress and dependency
 - Task can have many _labels_ (tags)
+
+### Permissions:
+
+Only members of @mtcfss/roadmap have write permission to the tasks (issues, PRs):
+- Open, close, assign any task
+- Change task labels, milestones
+- Update descriptions and comments of the tasks
+
+Non-members default permissions are read only others tasks and open new tasks.
+
+To gaint write permissions, send a request to @lejenome to join @mtcfss/roadmap.
