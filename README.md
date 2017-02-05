@@ -21,6 +21,17 @@ All issues are managed on [this waffle board](https://waffle.io/mtcfss/roadmap).
 - Task can added to a GitHub _milestone_ to track progress and dependency
 - Task can have many _labels_ (tags)
 
+```
+                          Task Card Detail
+  +------------------------------------------------------------------+
+  | <ID>                                                  <ASSIGNED> |
+  |                                                                  |
+  | <TITLE>                                                          |
+  |                                                                  |
+  | <LABLES>        <LINK>  <STORY_POINTS>  <DESCRIPTION_&_COMMENTS> |
+  +------------------------------------------------------------------+
+```
+
 ### Permissions:
 
 Only members of **@mtcfss/roadmap** team have write permission to the tasks (issues, PRs):
